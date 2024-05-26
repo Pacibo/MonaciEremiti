@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' ?>
+			
+	<root>
+
+		<questao>
+			<pergunta>Em que ano foi construida a Grande Muralha da China ?</pergunta>
+			<alternativa1>789 d.C</alternativa1>
+			<alternativa2>458 a.C</alternativa2>
+			<alternativa3>2 a.C</alternativa3>
+			<alternativa4>221 a.C</alternativa4>
+			<resposta>221 a.C</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Qual foi o principal motivo da destruição da metade do Coliseu de Roma ?</pergunta>
+			<alternativa1>Terremotos</alternativa1>
+			<alternativa2>Por ordem do imperador</alternativa2>
+			<alternativa3>Um monstro</alternativa3>
+			<alternativa4>Meteoros</alternativa4>
+			<resposta>Terremotos</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>O que ficava localizada entre as patas dianteiras da Esfinge, na Necrópole de Gizé?</pergunta>
+			<alternativa1>Uma igreja</alternativa1>
+			<alternativa2>Uma capela</alternativa2>
+			<alternativa3>Uma biblioteca</alternativa3>
+			<alternativa4>Um hospital</alternativa4>
+			<resposta>Uma capela</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Machu Picchu fica situada em que localidade ?</pergunta>
+			<alternativa1>Buenos Aires, Argentina</alternativa1>
+			<alternativa2>Belém, Brasil</alternativa2>
+			<alternativa3>Cusco, Peru</alternativa3>
+			<alternativa4>Londres, Inglaterra</alternativa4>
+			<resposta>Cusco, Peru</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>O Templo de Kukulcán foi criado por qual povo ?</pergunta>
+			<alternativa1>Portugueses</alternativa1>
+			<alternativa2>Maias itzáes</alternativa2>
+			<alternativa3>Incas</alternativa3>
+			<alternativa4>Astecas</alternativa4>
+			<resposta>Maias itzáes</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>Quem criou o basquete?</pergunta>
+			<alternativa1>Carl Sagan</alternativa1>
+			<alternativa2>Michel Jordan</alternativa2>
+			<alternativa3>James Naismith</alternativa3>
+			<alternativa4>Paul Laiscoran</alternativa4>
+			<resposta>James Naismith</resposta>
+		</questao>
+				
+		<questao>
+			<pergunta>A diferença das 500 milhas de indianápolis, para a fórmula 1 é:</pergunta>
+			<alternativa1>Os carros</alternativa1>
+			<alternativa2>A velocidade</alternativa2>
+			<alternativa3>A pista</alternativa3>
+			<alternativa4>A pista e a velocidade</alternativa4>
+			<resposta>A pista e a velocidade</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Assinale a alternativa para o esporte que não se teve nos nove primeiros na olímpiada.</pergunta>
+			<alternativa1>Boxe</alternativa1>
+			<alternativa2>Atletismo</alternativa2>
+			<alternativa3>Ciclismo</alternativa3>
+			<alternativa4>Levantamento de peso</alternativa4>
+			<resposta>Boxe</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>Qual foi a primeira Olimpíada, onde se teve o primeiro teste anti-dopping?</pergunta>
+			<alternativa1>Olimpíada de Atlanta</alternativa1>
+			<alternativa2>Olimpíada de Seul</alternativa2>
+			<alternativa3>Olimpíada da Cidade do México</alternativa3>
+			<alternativa4>Olimpíada de Beijing</alternativa4>
+			<resposta>Olimpíada da Cidade do México</resposta>
+		</questao>	
+
+		<questao>
+			<pergunta>Onde foi realizado os jogos da Juventude em 2010?</pergunta>
+			<alternativa1>Nos Estados Unidos</alternativa1>
+			<alternativa2>Na França</alternativa2>
+			<alternativa3>Na Austrália</alternativa3>
+			<alternativa4>Na China</alternativa4>
+			<resposta>Em Cingapura</resposta>
+		</questao>
+
+	</root>
+

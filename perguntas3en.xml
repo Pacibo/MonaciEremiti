@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' ?>
+			
+	<root>
+
+		<questao>
+			<pergunta>Annually, how many earthquakes shake the Earth?</pergunta>
+			<alternativa1>about 100</alternativa1>
+			<alternativa2>about 1.000</alternativa2>
+			<alternativa3>about 10.000</alternativa3>
+			<alternativa4>about 1.000.000</alternativa4>
+			<resposta>about 1.000.000</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>On average, how many hairs does a human have?</pergunta>
+			<alternativa1>about 1.000</alternativa1>
+			<alternativa2>about 10.000</alternativa2>
+			<alternativa3>about 100.000</alternativa3>
+			<alternativa4>about 1.000.000</alternativa4>
+			<resposta>about 100.000</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Which of the animals below is not endangered?</pergunta>
+			<alternativa1>Jaguar</alternativa1>
+			<alternativa2>Lion</alternativa2>
+			<alternativa3>Egret</alternativa3>
+			<alternativa4>Sea turtle</alternativa4>
+			<resposta>Lion</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>What animal, on average, lives the longest?</pergunta>
+			<alternativa1>Rhino</alternativa1>
+			<alternativa2>Bunny</alternativa2>
+			<alternativa3>Pig</alternativa3>
+			<alternativa4>Giraffe</alternativa4>
+			<resposta>Rhino</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>What is the heaviest animal in the world?</pergunta>
+			<alternativa1>Orca</alternativa1>
+			<alternativa2>Asian elephant</alternativa2>
+			<alternativa3>African elephant</alternativa3>
+			<alternativa4>Blue Whale</alternativa4>
+			<resposta>Blue Whale</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>In only two places in the world, men live longer than women. What places are these?</pergunta>
+			<alternativa1>In Central Africa and Chile</alternativa1>
+			<alternativa2>In South Asia and Iran</alternativa2>
+			<alternativa3>In India and Pakistan</alternativa3>
+			<alternativa4>In Iran and Iraq</alternativa4>
+			<resposta>In South Asia and Iran</resposta>
+		</questao>
+				
+		<questao>
+			<pergunta>What temperature does gasoline need to freeze?</pergunta>
+			<alternativa1>-100 degrees centigrade</alternativa1>
+			<alternativa2>-117.5 degrees centigrade</alternativa2>
+			<alternativa3>Never freezes</alternativa3>
+			<alternativa4>-350,4 graus centigrados</alternativa4>
+			<resposta>Never freezes</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>What is the only part of the human body that does not receive blood? Not to mention nails, hair, hair and teeth.</pergunta>
+			<alternativa1>Cornea</alternativa1>
+			<alternativa2>Tongue</alternativa2>
+			<alternativa3>Appendix</alternativa3>
+			<alternativa4>The bottom of the ears</alternativa4>
+			<resposta>Cornea</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>In which part of the human body do you find a complete sample of your DNA?</pergunta>
+			<alternativa1>Nails</alternativa1>
+			<alternativa2>Bones</alternativa2>
+			<alternativa3>in the fabric of the fingers</alternativa3>
+			<alternativa4>Hair</alternativa4>
+			<resposta>Hair</resposta>
+		</questao>	
+
+		<questao>
+			<pergunta>What is the longest tunnel in the world?</pergunta>
+			<alternativa1>EUROTUNNEL, links England and France</alternativa1>
+			<alternativa2>SEIKAN in Japan</alternativa2>
+			<alternativa3>LÖTSCHBERG BASE, Switzerland</alternativa3>
+			<alternativa4>KALUZHSKO-RIZHSKAYA, Russia</alternativa4>
+			<resposta>SEIKAN in Japan</resposta>
+		</questao>
+
+	</root>
+

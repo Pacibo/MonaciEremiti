@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' ?>
+			
+	<root>
+
+		<questao>
+			<pergunta>Which land animal is the loudest?</pergunta>
+			<alternativa1>Hyena</alternativa1>
+			<alternativa2>Pig</alternativa2>
+			<alternativa3>Howler</alternativa3>
+			<alternativa4>Boar</alternativa4>
+			<resposta>Howler</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Which of these animals are not insects?</pergunta>
+			<alternativa1>Fly, ant and worm</alternativa1>
+			<alternativa2>Ladybug, Spider and Ant</alternativa2>
+			<alternativa3>Bee, Flea and Scorpion</alternativa3>
+			<alternativa4>Scorpion, Spider and Small Armadillo</alternativa4>
+			<resposta>Scorpion, Spider and Small Armadillo</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Which of these animals are herbivores?</pergunta>
+			<alternativa1>Koala, horse and rabbit</alternativa1>
+			<alternativa2>Tiger, Monkey and Shark</alternativa2>
+			<alternativa3>Cow, Lion and Lynx</alternativa3>
+			<alternativa4>Horse, Duck and Jaguar</alternativa4>
+			<resposta>Koala, horse and rabbit</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Sarcophilus harrisii is the scientific name of which animal?</pergunta>
+			<alternativa1>Giant anteater</alternativa1>
+			<alternativa2>Manatee</alternativa2>
+			<alternativa3>Gorilla</alternativa3>
+			<alternativa4>Tasmanian Devil</alternativa4>
+			<resposta>Tasmanian Devil</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>What other name is the queen bee also known for?</pergunta>
+			<alternativa1>Governor bee</alternativa1>
+			<alternativa2>Queen bee</alternativa2>
+			<alternativa3>Major bee</alternativa3>
+			<alternativa4>Mother bee</alternativa4>
+			<resposta>Queen bee</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>What was the first mammal to be cloned?</pergunta>
+			<alternativa1>Puppy</alternativa1>
+			<alternativa2>Horse</alternativa2>
+			<alternativa3>Ram</alternativa3>
+			<alternativa4>Sheep</alternativa4>
+			<resposta>Sheep</resposta>
+		</questao>
+				
+		<questao>
+			<pergunta>How many noses are ants equipped with?</pergunta>
+			<alternativa1>1</alternativa1>
+			<alternativa2>4</alternativa2>
+			<alternativa3>5</alternativa3>
+			<alternativa4>6</alternativa4>
+			<resposta>5</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Which animal can run faster than a horse?</pergunta>
+			<alternativa1>Cat</alternativa1>
+			<alternativa2>Puppy</alternativa2>
+			<alternativa3>Bear</alternativa3>
+			<alternativa4>Lion</alternativa4>
+			<resposta>Bear</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>Which animal has the most powerful kick?</pergunta>
+			<alternativa1>Zebra</alternativa1>
+			<alternativa2>Horse</alternativa2>
+			<alternativa3>Giraffe</alternativa3>
+			<alternativa4>Cow</alternativa4>
+			<resposta>Giraffe</resposta>
+		</questao>	
+
+		<questao>
+			<pergunta>How much does a Malay Bear weigh?</pergunta>
+			<alternativa1>15 to 25 Kg</alternativa1>
+			<alternativa2>25 to 45 Kg</alternativa2>
+			<alternativa3>45 to 65 Kg</alternativa3>
+			<alternativa4>65 to 95 Kg</alternativa4>
+			<resposta>25 to 45 Kg</resposta>
+		</questao>
+
+	</root>
+

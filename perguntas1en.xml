@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' ?>
+			
+	<root>
+
+		<questao>
+			<pergunta>Chi è considerato il fondatore dell'ordine dei monaci eremiti di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>San Giovanni Battista</alternativa1>
+			<alternativa2>San Giovanni evangelista</alternativa2>
+			<alternativa3>San Giocanni Crisostiomo</alternativa3>
+			<alternativa4>San Giovanni Cassiano</alternativa4>
+			<resposta>San Giovanni Cassiano</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Qual è la caratteristica distintiva dei monaci eremiti?</pergunta>
+			<alternativa1>Vivono in comunità</alternativa1>
+			<alternativa2>Praticano la povertà</alternativa2>
+			<alternativa3>Si ritirano in solitudine</alternativa3>
+			<alternativa4>Svolgono opere di carità</alternativa4>
+			<resposta>Si ritirano in solitudine</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>In quale città si trova il monastero di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>Roma</alternativa1>
+			<alternativa2>Palermo</alternativa2>
+			<alternativa3>Napoli</alternativa3>
+			<alternativa4>Genova</alternativa4>
+			<resposta>Palermo</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Quale colore predominante si trova nel monastero di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>Rosso</alternativa1>
+			<alternativa2>Blu</alternativa2>
+			<alternativa3>verde</alternativa3>
+			<alternativa4>Giallo</alternativa4>
+			<resposta>Rosso</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Qual è il simbolo del monastero di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>Croce Latina</alternativa1>
+			<alternativa2>Mezzaluna</alternativa2>
+			<alternativa3>Stella a otto punte</alternativa3>
+			<alternativa4>Chiave d'oro</alternativa4>
+			<resposta>Stella a otto punte</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>Qual è la principale attività dei monaci eremiti di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>Agricoltura</alternativa1>
+			<alternativa2>Studio Teologico</alternativa2>
+			<alternativa3>Preghiera</alternativa3>
+			<alternativa4>artigianato</alternativa4>
+			<resposta>Preghiera</resposta>
+		</questao>
+				
+		<questao>
+			<pergunta>Qual è la festa principale celebrata dai monaci eremiti di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>Natale</alternativa1>
+			<alternativa2>Pasqua</alternativa2>
+			<alternativa3>San Giovanni Battista</alternativa3>
+			<alternativa4>Ognissanti</alternativa4>
+			<resposta>San Giovanni Battista</resposta>
+		</questao>
+
+		<questao>
+			<pergunta>Qual è il significato del termine "eremita"?</pergunta>
+			<alternativa1>Predicatore ambulante</alternativa1>
+			<alternativa2>Guaritore spirituale</alternativa2>
+			<alternativa3>Abitante del deserto</alternativa3>
+			<alternativa4>Viaggiatore errante</alternativa4>
+			<resposta>Abitante del deserto</resposta>
+		</questao>
+		
+		<questao>
+			<pergunta>Quale aspetto del monastero di San Giovanni degli Eremiti lo rende unico rispetto ad altri monasteri?</pergunta>
+			<alternativa1>La presenza di un giardino di agrumi</alternativa1>
+			<alternativa2>L'alta torre campanaria</alternativa2>
+			<alternativa3>La vasta biblioteca</alternativa3>
+			<alternativa4>Le affrescate sulle pareti</alternativa4>
+			<resposta>La presenza di un giardino di agrumi</resposta>
+		</questao>	
+
+		<questao>
+			<pergunta>Qual è la principale regola di vita dei monaci eremiti di San Giovanni degli Eremiti?</pergunta>
+			<alternativa1>Obbedianza</alternativa1>
+			<alternativa2>castità</alternativa2>
+			<alternativa3>Solitudine</alternativa3>
+			<alternativa4>Povertà</alternativa4>
+			<resposta>Solitudine</resposta>
+		</questao>
+
+	</root>
+
