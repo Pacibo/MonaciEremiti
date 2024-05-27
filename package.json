@@ -1,7 +1,0 @@
-{
-	"name": "Quiz Monaci",
-	"private": true,
-	"dependencies": {
-		"cordova-ios": "7.0.1"
-	}
-}
